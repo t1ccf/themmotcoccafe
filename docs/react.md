@@ -1,3 +1,0 @@
-# ReactJS Sharing
-
-Coming soon...

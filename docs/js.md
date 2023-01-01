@@ -1,3 +1,0 @@
-# JS Sharing
-
-Coming soon...
